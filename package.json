@@ -1,0 +1,11 @@
+{
+  "name": "typewriter-sounds",
+  "main": "typewriter.js",
+  "version": "0.0.0",
+  "description": "Make Atom editor sound like a typewriter",
+  "repository": "https://github.com/surdu/typewriter-sounds",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
